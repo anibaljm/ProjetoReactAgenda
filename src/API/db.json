@@ -1,0 +1,34 @@
+{
+  "contatos": [
+    {
+      "nome": "Alejandra",
+      "telefone": "21 464289552",
+      "email": "alej@gmail.com",
+      "id": 1670797278572
+    },
+    {
+      "nome": "Marbelia",
+      "telefone": "21 992418813",
+      "email": "marbe@gmail.com",
+      "id": 1670797311909
+    },
+    {
+      "nome": "Raylu",
+      "telefone": "21 992418813",
+      "email": "rai@gmail.com",
+      "id": 1670798260083
+    },
+    {
+      "nome": "Yerly",
+      "telefone": "21 245856954",
+      "email": "yerl@gmail.com",
+      "id": 1670802478794
+    },
+    {
+      "nome": "Melissa",
+      "telefone": "21 992418815",
+      "email": "mel@gmail.com",
+      "id": 1670803234768
+    }
+  ]
+}
